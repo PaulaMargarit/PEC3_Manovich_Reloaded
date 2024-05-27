@@ -1,12 +1,12 @@
 #  PAC3. Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació 
 
-### Recurs d'aprenentatge de Cultura Digital 
-
 
 Autor: Paula Margarit Corominas
 
 
 Curs: 2023/2024
+
+Assignatura: Cultura Digital
 
 ![Cultura Digital](https://img.freepik.com/free-vector/ai-brain-concept-illustration_114360-25105.jpg?t=st=1716834204~exp=1716837804~hmac=3658b6e89ae39f2c94591259ef9da5852ba244559a739fa0fe3c12607ba310da&w=740) 
 
